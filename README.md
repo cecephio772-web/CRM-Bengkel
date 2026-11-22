@@ -27,3 +27,17 @@
 2. Buat database baru di phpMyAdmin dan import file `.sql` *(jika tersedia)*.
 3. Sesuaikan konfigurasi koneksi database pada file konfigurasi PHP.
 4. Buka browser dan akses `http://localhost/CRM-Bengkel/indeks.php`.
+
+## 📸 Tampilan Aplikasi
+
+### 1. Dashboard & Database Pelanggan
+![Dashboard ENGINECRM](<Dashboard-crm.png>)
+
+### 2. Manajemen Booking & Layanan Segmen
+![Layanan Pemesanan](<Layanan pemesanan - crm.png>)
+
+### 3. Poin, Promo & Referral
+![Poin dan Promo](<poin & promo - crm . png>)
+
+### 4. Pengingat WhatsApp (Reminder WA)
+![Pengingat WA](<Pengingat wa - crm . png>)
