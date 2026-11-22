@@ -34,10 +34,10 @@
 ![Dashboard ENGINECRM](<Dashboard-crm.png>)
 
 ### 2. Manajemen Booking & Layanan Segmen
-![Layanan Pemesanan](booking.png)
+![Layanan Pemesanan](<Booking servis - crm.png>)
 
 ### 3. Poin, Promo & Referral
 ![Poin dan Promo](<poin & promo - crm . png>)
 
 ### 4. Pengingat WhatsApp (Reminder WA)
-![Pengingat WA](reminder.png)
+![Pengingat WA](<Reminder wa - crm . png>)
